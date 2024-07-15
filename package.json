@@ -1,0 +1,25 @@
+{
+  "name": "aluraflix-api",
+  "version": "1.0.0",
+  "description": "FakeAPI para challenge AluraFlix",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shmariajesus/aluraflix-api.git"
+  },
+  "author": "Maria Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shmariajesus/aluraflix-api/issues"
+  },
+  "homepage": "https://github.com/shmariajesus/aluraflix-api#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
